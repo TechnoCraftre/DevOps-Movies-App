@@ -15,13 +15,13 @@
       ▼
 ┌────────────┐
 │ Jenkins CI │
-│ (on AWS)  │
+│ (on AWS)   │
 └─────┬──────┘
       │ Build & Push
       ▼
 ┌────────────┐
 │ Docker Hub │
-│ / ECR     │
+│            │
 └─────┬──────┘
       │ Deploy
       ▼
